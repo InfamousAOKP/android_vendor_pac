@@ -186,3 +186,8 @@ add_lunch_combo pac_yuga-userdebug
 add_lunch_combo pac_zeus-userdebug
 # ZTE
 add_lunch_combo pac_atlas40-userdebug
+# p4xxx models
+add_lunch_combo pac_p4-userdebug
+add_lunch_combo pac_p4tmo-userdebug
+add_lunch_combo pac_p4vzw-userdebug
+add_lunch_combo pac_p4wifi-userdebug
